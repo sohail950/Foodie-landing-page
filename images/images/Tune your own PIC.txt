@@ -1,0 +1,16 @@
+Big lines this is what they’ve told me:
+
+ 
+
+1. By changing Gain Section and SOA the Optical Output Power (dBm) will change (more details on the “how” will follow when we go ahead with the works)
+
+2. By changing the Mach-Zehnder (bitrate), the Link speed [Gbps] will change 1:1 (so basically the number that is in the first one, will be the same of the output)
+
+3. The DBR (frequency) will change the Optical Frequency (color) for example if 10 then the little arrow will be in the middle, if 20 the little arrow will be to the right and if 0 the little arrow will be on the left – and al the other numbers will follow this schema. In this case also the colour violet in the pic will have to change based on the colour of the optical frequency
+
+4. The thickness of the PIC lines will have to change as well based on the number of the optical output. If it is 0 for example, the lines will be very thick, if it is 40 the line will be very thin
+
+5. Last but not least when changing the Mach-Zehnder (bitrate) the dotted line in the pic will be modified. If the value is 0, as instance, the dotted lines will be very long, if it is 10 they will be a bit shorter, if it is 25 it will be way more shorter (almost like dots)
+ 
+
+This is the more exact I could be for a quote at this moment, actually I gave you a very good overview of how it will come at the end. Please keep me posted and have a great holiday meanwhile!
